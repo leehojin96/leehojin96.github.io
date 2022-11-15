@@ -1,8 +1,22 @@
-*.gem
-.bundle
-.sass-cache
-.jekyll-cache
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+!.husky
+!.commitlintrc.json
+!.versionrc.json
+!.stylelintrc.json
+
+# bundler cache
 _site
+vendor
 Gemfile.lock
-unused
-bootstrap-reference.html
+
+# rubygem
+*.gem
+
+# npm dependencies
+node_modules
+package-lock.json
