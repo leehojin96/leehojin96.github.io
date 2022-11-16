@@ -1,0 +1,6 @@
+C:\Users\yakmo\OneDrive\문서\GitHub\leehojin96.github.io
+
+bundle exec jekyll serve
+
+http://127.0.0.1:4000/
+http://localhost:4000/
